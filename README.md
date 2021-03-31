@@ -11,8 +11,12 @@
 ```java
 public static void main(String[] args){
 }
-···
+```
 
 ![](https://github.com/Superman-zhou/blog-test/blob/main/img/%E7%86%8A%E7%8C%AB%E9%97%AE%E5%8F%B7.jpg)
 
-![一张图片](https://github.com/Superman-zhou/blog-test/blob/main/img/%E7%86%8A%E7%8C%AB%E9%97%AE%E5%8F%B7.jpg)
+目前在广州租了个小单间计划脱产学习前端4~5个月
+
+今天学了怎么在github写博客，这个简单的介绍就是我的第一个博客
+
+2021.4.1
