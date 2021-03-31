@@ -13,5 +13,6 @@ public static void main(String[] args){
 }
 ···
 
-![图片](img/熊猫问号.jpg)
+![](https://github.com/Superman-zhou/blog-test/blob/main/img/%E7%86%8A%E7%8C%AB%E9%97%AE%E5%8F%B7.jpg)
 
+![一张图片](https://github.com/Superman-zhou/blog-test/blob/main/img/%E7%86%8A%E7%8C%AB%E9%97%AE%E5%8F%B7.jpg)
